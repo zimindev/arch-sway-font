@@ -1,0 +1,4 @@
+Install this fonts!
+
+Emoji fonts:
+sudo pacman -S noto-fonts noto-fonts-emoji
